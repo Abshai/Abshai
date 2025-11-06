@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abshai</h1>
-<h3 align="center">A Junior fullstack developer based in London</h3>
+<h3 align="center">An IT Technician based in London also studying code!</h3>
 
-- 🌱 I’m currently working to improve my skills on **Ruby, Ruby on Rails, CSS and JavaScript**
+- 🌱 I’m currently working to improve my skills on **Python, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **abshaim@yahoo.com**
 
